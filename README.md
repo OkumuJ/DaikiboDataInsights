@@ -28,3 +28,6 @@ Analyze the telementary data collected by Daikibo in Tableau
 
 ### Resources 
 daikibo-telemetry-data.json.zip
+
+## source 
+https://www.theforage.com/virtual-experience/io9DzWKe3PTsiS6GG/deloitte-australia/data-analytics-s5zy/data-analysis
